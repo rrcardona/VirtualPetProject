@@ -36,7 +36,7 @@ namespace VirtualPetProject
                         break;
                 }
             }
-            while (SleepTime >= 5 && EatingTime >= 5);          
+            while (SleepTime >= 4);          
             {
                 Console.WriteLine("Thank you for taking care of me");
             }
